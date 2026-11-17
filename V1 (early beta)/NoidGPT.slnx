@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NoidGPT/NoidGPT.vcxproj" Id="c78a0a7e-e392-4ede-b863-f26e4ba36c59" />
+</Solution>
